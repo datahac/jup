@@ -1,22 +1,4 @@
-Report For View (Profile): ,All Web Site Data,,
-,,,
-These results do not contain sampled data.,,,
-,,,
-These query parameters were used:,,,
-max-results,1000,,
-dimensions,ga:deviceCategory,,
-start-date,1/1/2017,,
-start-index,1,,
-ids,ga:123303369,,
-metrics,"ga:sessions,ga:bounceRate,ga:sessionsWithEvent",,
-end-date,4/24/2017,,
-,,,
 ga:deviceCategory,ga:sessions,ga:bounceRate,ga:sessionsWithEvent
 desktop,4061,52.64713125,114
 mobile,2261,62.62715613,30
 tablet,270,55.55555556,3
-,,,
-Rows Returned,1000,,
-Rows Matched,3,,
-Totals For All Rows Matched,,,
-,6592,56.18932039,147
