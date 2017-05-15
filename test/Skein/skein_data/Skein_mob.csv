@@ -1,0 +1,4 @@
+ga:deviceCategory,ga:sessions,ga:bounceRate,ga:sessionsWithEvent
+desktop,1855,69.48787062,68
+mobile,520,36.34615385,9
+tablet,20,75,0
