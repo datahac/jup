@@ -18,18 +18,6 @@
         "rows": [
           {
             "dimensions": [
-              "(entrance)"
-            ],
-            "metrics": [
-              {
-                "values": [
-                  "6"
-                ]
-              }
-            ]
-          },
-          {
-            "dimensions": [
               "/"
             ],
             "metrics": [
@@ -68,15 +56,15 @@
         "totals": [
           {
             "values": [
-              "137"
+              "131"
             ]
           }
         ],
-        "rowCount": 4,
+        "rowCount": 3,
         "minimums": [
           {
             "values": [
-              "6"
+              "22"
             ]
           }
         ],
