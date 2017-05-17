@@ -1,0 +1,118 @@
+{
+  "reports": [
+    {
+      "columnHeader": {
+        "dimensions": [
+          "ga:pagePath"
+        ],
+        "metricHeader": {
+          "metricHeaderEntries": [
+            {
+              "name": "ga:sessions",
+              "type": "INTEGER"
+            }
+          ]
+        }
+      },
+      "data": {
+        "rows": [
+          {
+            "dimensions": [
+              "/"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "5925"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "/TMRW_Byte_Cafe.php"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "270"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "/TMRW_FAQs.php"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "129"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "/TMRW_the_team.php"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "140"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "/trainstrikes.php"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "231"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "/voteforbyte.php"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "79"
+                ]
+              }
+            ]
+          }
+        ],
+        "totals": [
+          {
+            "values": [
+              "6774"
+            ]
+          }
+        ],
+        "rowCount": 6,
+        "minimums": [
+          {
+            "values": [
+              "79"
+            ]
+          }
+        ],
+        "maximums": [
+          {
+            "values": [
+              "5925"
+            ]
+          }
+        ],
+        "isDataGolden": true
+      }
+    }
+  ]
+}
