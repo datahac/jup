@@ -1,77 +1,73 @@
-
 {
- "kind": "analytics#gaData",
- "id": "https://www.googleapis.com/analytics/v3/data/ga?ids=ga:123303369&dimensions=ga:deviceCategory&metrics=ga:sessions,ga:bounces,ga:sessionsWithEvent&start-date=2017-01-01&end-date=2017-04-30",
- "query": {
-  "start-date": "2017-01-01",
-  "end-date": "2017-04-30",
-  "ids": "ga:123303369",
-  "dimensions": "ga:deviceCategory",
-  "metrics": [
-   "ga:sessions",
-   "ga:bounces",
-   "ga:sessionsWithEvent"
-  ],
-  "start-index": 1,
-  "max-results": 1000
- },
- "itemsPerPage": 1000,
- "totalResults": 3,
- "selfLink": "https://www.googleapis.com/analytics/v3/data/ga?ids=ga:123303369&dimensions=ga:deviceCategory&metrics=ga:sessions,ga:bounces,ga:sessionsWithEvent&start-date=2017-01-01&end-date=2017-04-30",
- "profileInfo": {
-  "profileId": "123303369",
-  "accountId": "78795478",
-  "webPropertyId": "UA-78795478-1",
-  "internalWebPropertyId": "117885953",
-  "profileName": "All Web Site Data",
-  "tableId": "ga:123303369"
- },
- "containsSampledData": false,
- "columnHeaders": [
+ "reports": [
   {
-   "name": "ga:deviceCategory",
-   "columnType": "DIMENSION",
-   "dataType": "STRING"
-  },
-  {
-   "name": "ga:sessions",
-   "columnType": "METRIC",
-   "dataType": "INTEGER"
-  },
-  {
-   "name": "ga:bounces",
-   "columnType": "METRIC",
-   "dataType": "INTEGER"
-  },
-  {
-   "name": "ga:sessionsWithEvent",
-   "columnType": "METRIC",
-   "dataType": "INTEGER"
+   "columnHeader": {
+    "dimensions": [
+     "ga:deviceCategory"
+    ],
+    "metricHeader": {
+     "metricHeaderEntries": [
+      {
+       "name": "ga:sessions",
+       "type": "INTEGER"
+      },
+      {
+       "name": "ga:bounces",
+       "type": "INTEGER"
+      },
+      {
+       "name": "ga:goal1Completions",
+       "type": "INTEGER"
+      }
+     ]
+    }
+   },
+   "data": {
+    "rows": [
+     {
+      "dimensions": [
+       "desktop"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "4263",
+         "2251",
+         "117"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "mobile"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "2352",
+         "1468",
+         "26"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "tablet"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "278",
+         "155",
+         "3"
+        ]
+       }
+      ]
+     }
+    ]
+   }
   }
- ],
- "totalsForAllResults": {
-  "ga:sessions": "6893",
-  "ga:bounces": "3874",
-  "ga:sessionsWithEvent": "159"
- },
- "rows": [
-  [
-   "desktop",
-   "4263",
-   "2251",
-   "124"
-  ],
-  [
-   "mobile",
-   "2352",
-   "1468",
-   "32"
-  ],
-  [
-   "tablet",
-   "278",
-   "155",
-   "3"
-  ]
  ]
 }
