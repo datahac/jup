@@ -1,0 +1,157 @@
+{
+  "reports": [
+    {
+      "columnHeader": {
+        "dimensions": [
+          "ga:city"
+        ],
+        "metricHeader": {
+          "metricHeaderEntries": [
+            {
+              "name": "ga:sessions",
+              "type": "INTEGER"
+            },
+            {
+              "name": "ga:bounceRate",
+              "type": "PERCENT"
+            },
+            {
+              "name": "ga:goal1ConversionRate",
+              "type": "PERCENT"
+            },
+            {
+              "name": "ga:goal1Completions",
+              "type": "INTEGER"
+            }
+          ]
+        }
+      },
+      "data": {
+        "rows": [
+          {
+            "dimensions": [
+              "Croydon"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "1654",
+                  "48.851269649334945",
+                  "2.599758162031439",
+                  "43"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Hove"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "59",
+                  "47.45762711864407",
+                  "1.694915254237288",
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Kiev"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "44",
+                  "43.18181818181818",
+                  "11.363636363636363",
+                  "5"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "London"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "3285",
+                  "57.41248097412481",
+                  "2.1613394216133943",
+                  "71"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "New York"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "38",
+                  "84.21052631578947",
+                  "2.631578947368421",
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "Redhill"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "36",
+                  "55.55555555555556",
+                  "5.555555555555555",
+                  "2"
+                ]
+              }
+            ]
+          }
+        ],
+        "totals": [
+          {
+            "values": [
+              "5116",
+              "54.59343236903831",
+              "2.404222048475371",
+              "123"
+            ]
+          }
+        ],
+        "rowCount": 6,
+        "minimums": [
+          {
+            "values": [
+              "36",
+              "43.18181818181818",
+              "1.694915254237288",
+              "1"
+            ]
+          }
+        ],
+        "maximums": [
+          {
+            "values": [
+              "3285",
+              "84.21052631578947",
+              "11.363636363636363",
+              "71"
+            ]
+          }
+        ],
+        "isDataGolden": true
+      }
+    }
+  ]
+}
