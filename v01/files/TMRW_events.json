@@ -1,0 +1,54 @@
+{
+ "reports": [
+  {
+   "columnHeader": {
+    "dimensions": [
+     "ga:eventCategory",
+     "ga:eventAction",
+     "ga:eventLabel"
+    ],
+    "metricHeader": {
+     "metricHeaderEntries": [
+      {
+       "name": "ga:totalEvents",
+       "type": "INTEGER"
+      }
+     ]
+    }
+   },
+   "data": {
+    "rows": [
+     {
+      "dimensions": [
+       "Event",
+       "Form",
+       "Submitted"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "199"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "Link",
+       "Click",
+       "Clicked"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "6"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}
+ 
