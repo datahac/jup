@@ -1,0 +1,126 @@
+{
+ "kind": "analytics#goals",
+ "username": "skein@skeingroup.com",
+ "totalResults": 3,
+ "startIndex": 1,
+ "itemsPerPage": 1000,
+ "items": [
+  {
+   "id": "1",
+   "kind": "analytics#goal",
+   "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/78795478/webproperties/UA-78795478-1/profiles/123303369/goals/1",
+   "accountId": "78795478",
+   "webPropertyId": "UA-78795478-1",
+   "internalWebPropertyId": "117885953",
+   "profileId": "123303369",
+   "name": "Contact form submission",
+   "value": 0.0,
+   "active": true,
+   "type": "EVENT",
+   "created": "2017-01-26T16:41:38.797Z",
+   "updated": "2017-01-29T19:24:58.853Z",
+   "parentLink": {
+    "type": "analytics#profile",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/78795478/webproperties/UA-78795478-1/profiles/123303369"
+   },
+   "eventDetails": {
+    "useEventValue": true,
+    "eventConditions": [
+     {
+      "type": "CATEGORY",
+      "matchType": "EXACT",
+      "expression": "Event"
+     },
+     {
+      "type": "ACTION",
+      "matchType": "EXACT",
+      "expression": "Form"
+     },
+     {
+      "type": "LABEL",
+      "matchType": "EXACT",
+      "expression": "Submitted"
+     }
+    ]
+   }
+  },
+  {
+   "id": "2",
+   "kind": "analytics#goal",
+   "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/78795478/webproperties/UA-78795478-1/profiles/123303369/goals/2",
+   "accountId": "78795478",
+   "webPropertyId": "UA-78795478-1",
+   "internalWebPropertyId": "117885953",
+   "profileId": "123303369",
+   "name": "Stay informed submission",
+   "value": 0.0,
+   "active": true,
+   "type": "EVENT",
+   "created": "2017-01-26T16:42:15.852Z",
+   "updated": "2017-01-26T16:42:15.852Z",
+   "parentLink": {
+    "type": "analytics#profile",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/78795478/webproperties/UA-78795478-1/profiles/123303369"
+   },
+   "eventDetails": {
+    "useEventValue": true,
+    "eventConditions": [
+     {
+      "type": "CATEGORY",
+      "matchType": "EXACT",
+      "expression": "Form"
+     },
+     {
+      "type": "ACTION",
+      "matchType": "EXACT",
+      "expression": "Submitted"
+     },
+     {
+      "type": "LABEL",
+      "matchType": "EXACT",
+      "expression": "Stay Informed Form"
+     }
+    ]
+   }
+  },
+  {
+   "id": "3",
+   "kind": "analytics#goal",
+   "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/78795478/webproperties/UA-78795478-1/profiles/123303369/goals/3",
+   "accountId": "78795478",
+   "webPropertyId": "UA-78795478-1",
+   "internalWebPropertyId": "117885953",
+   "profileId": "123303369",
+   "name": "Telephone click",
+   "value": 0.0,
+   "active": true,
+   "type": "EVENT",
+   "created": "2017-01-26T16:42:51.939Z",
+   "updated": "2017-01-29T19:29:12.187Z",
+   "parentLink": {
+    "type": "analytics#profile",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/78795478/webproperties/UA-78795478-1/profiles/123303369"
+   },
+   "eventDetails": {
+    "useEventValue": true,
+    "eventConditions": [
+     {
+      "type": "CATEGORY",
+      "matchType": "EXACT",
+      "expression": "Link"
+     },
+     {
+      "type": "ACTION",
+      "matchType": "EXACT",
+      "expression": "Click"
+     },
+     {
+      "type": "LABEL",
+      "matchType": "EXACT",
+      "expression": "Clicked"
+     }
+    ]
+   }
+  }
+ ]
+}
