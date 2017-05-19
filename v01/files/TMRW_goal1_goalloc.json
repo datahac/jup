@@ -1,94 +1,115 @@
+
 {
-  "reports": [
-    {
-      "columnHeader": {
-        "dimensions": [
-          "ga:goalCompletionLocation"
-        ],
-        "metricHeader": {
-          "metricHeaderEntries": [
-            {
-              "name": "ga:goal1Completions",
-              "type": "INTEGER"
-            }
-          ]
-        }
-      },
-      "data": {
-        "rows": [
-          {
-            "dimensions": [
-              "(entrance)"
-            ],
-            "metrics": [
-              {
-                "values": [
-                  "6"
-                ]
-              }
-            ]
-          },
-          {
-            "dimensions": [
-              "/"
-            ],
-            "metrics": [
-              {
-                "values": [
-                  "85"
-                ]
-              }
-            ]
-          },
-          {
-            "dimensions": [
-              "/TMRW_Byte_Cafe.php"
-            ],
-            "metrics": [
-              {
-                "values": [
-                  "22"
-                ]
-              }
-            ]
-          },
-          {
-            "dimensions": [
-              "/TMRW_FAQs.php"
-            ],
-            "metrics": [
-              {
-                "values": [
-                  "24"
-                ]
-              }
-            ]
-          }
-        ],
-        "totals": [
-          {
-            "values": [
-              "137"
-            ]
-          }
-        ],
-        "rowCount": 4,
-        "minimums": [
-          {
-            "values": [
-              "6"
-            ]
-          }
-        ],
-        "maximums": [
-          {
-            "values": [
-              "85"
-            ]
-          }
-        ],
-        "isDataGolden": true
+ "reports": [
+  {
+   "columnHeader": {
+    "dimensions": [
+     "ga:goalCompletionLocation"
+    ],
+    "metricHeader": {
+     "metricHeaderEntries": [
+      {
+       "name": "ga:goal1Completions",
+       "type": "INTEGER"
       }
+     ]
     }
-  ]
+   },
+   "data": {
+    "rows": [
+     {
+      "dimensions": [
+       "(entrance)"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "6"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "85"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/portfolio-single-gallery.html"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRW_Byte_Cafe.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "22"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRW_FAQs.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "24"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRW_Get_in_touch.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "3"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRW_the_team.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "5"
+        ]
+       }
+      ]
+     }
+    ],
+    "totals": [
+     {
+      "values": [
+       "146"
+      ]
+     }
+    ]
+   }
+  }
+ ]
 }
