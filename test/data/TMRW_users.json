@@ -1,0 +1,270 @@
+{
+ "reports": [
+  {
+   "columnHeader": {
+    "dimensions": [
+     "ga:city",
+     "ga:userAgeBracket"
+    ],
+    "metricHeader": {
+     "metricHeaderEntries": [
+      {
+       "name": "ga:sessions",
+       "type": "INTEGER"
+      },
+      {
+       "name": "ga:sessionDuration",
+       "type": "TIME"
+      },
+      {
+       "name": "ga:goal1Completions",
+       "type": "INTEGER"
+      },
+      {
+       "name": "ga:bounceRate",
+       "type": "PERCENT"
+      }
+     ]
+    }
+   },
+   "data": {
+    "rows": [
+     {
+      "dimensions": [
+       "(not set)",
+       "25-34"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "27",
+         "1848.0",
+         "1",
+         "62.96296296296296"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "(not set)",
+       "35-44"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "23",
+         "1790.0",
+         "1",
+         "52.17391304347826"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "Croydon",
+       "18-24"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "101",
+         "10047.0",
+         "4",
+         "41.584158415841586"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "Croydon",
+       "25-34"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "334",
+         "62737.0",
+         "17",
+         "47.90419161676647"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "Croydon",
+       "35-44"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "223",
+         "34564.0",
+         "7",
+         "43.04932735426009"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "Croydon",
+       "45-54"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "90",
+         "14131.0",
+         "2",
+         "45.55555555555556"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "Croydon",
+       "55-64"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "32",
+         "1932.0",
+         "1",
+         "53.125"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "Hove",
+       "35-44"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "12",
+         "833.0",
+         "1",
+         "16.666666666666664"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "London",
+       "18-24"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "167",
+         "29335.0",
+         "8",
+         "49.700598802395206"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "London",
+       "25-34"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "842",
+         "84813.0",
+         "24",
+         "59.14489311163895"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "London",
+       "35-44"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "482",
+         "56008.0",
+         "14",
+         "54.77178423236515"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "London",
+       "45-54"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "205",
+         "26525.0",
+         "3",
+         "55.60975609756098"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "London",
+       "55-64"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "37",
+         "3329.0",
+         "0",
+         "48.64864864864865"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "London",
+       "65+"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "15",
+         "2224.0",
+         "1",
+         "66.66666666666666"
+        ]
+       }
+      ]
+     }
+    ],
+    "totals": [
+     {
+      "values": [
+       "2590",
+       "330116.0",
+       "84",
+       "53.05019305019305"
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}
