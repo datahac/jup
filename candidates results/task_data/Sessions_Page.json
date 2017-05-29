@@ -1,0 +1,930 @@
+{
+ "reports": [
+  {
+   "columnHeader": {
+    "dimensions": [
+     "ga:pagePath"
+    ],
+    "metricHeader": {
+     "metricHeaderEntries": [
+      {
+       "name": "ga:sessions",
+       "type": "INTEGER"
+      }
+     ]
+    }
+   },
+   "data": {
+    "rows": [
+     {
+      "dimensions": [
+       "/"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "5925"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/?_hsenc=p2ANqtz-_McBb_ag9eyaYD3mJjDG7G_uB3uhgGcsBxi15N7Dkx2CB6Q4EicvyM4qxz_QhoX49gt27HZU9461DeUyoMURHz597MYA&_hsmi=42202727"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/?_hsenc=p2ANqtz-_ORc__Ui5VKSGvLO72LiNTFW98hg-mQlkIsltDFF4bZnKtFg4qvG21fhsL8zvY5rcQaRGke58VTsOsZTHhcAw7YWQMDvVnC8flaNVmXtZ3Pt9_sRI&_hsmi=45155107"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/?_hsenc=p2ANqtz-_PMnaFvC1MTCPb_RghCCNcPyb6VHPUfs1AGacdBEc6k4WIkLbn_u24M5CG820anvWE4-jQa-2c2IEUNpl9Xqln0NruPA&_hsmi=42202727"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/?_hsenc=p2ANqtz--3SZ9_TxAeV_6dUflCeBmtEy9p5-kx7gJidd5Ibv-WOsLnzj_uCiZtdhRikZqTRif43CkxFcza6g657KSMlorVQiMBEg&_hsmi=45145424"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/?_hsenc=p2ANqtz--5qSlXatRwmauQbFfrahRUIfDCf0Sr03obAlY44VJRH5EId-A3BprJhTJXbEJ4KaVk0DPxxpp6r6sXB9RVDtgZeDJXeQ&_hsmi=45155107"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/?_hsenc=p2ANqtz--7jiNooHo7FlMd6hWQJ9lQ4YUTCEpBhXLKmoZXZwT8ceD_LFsoPxX3lxNtufY9-q6EQvsyGq0nstD-mq_LHIX3sUSUirBYOEP3ZIhOQ1zQkts8s2Y&_hsmi=45145424"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/?_hsenc=p2ANqtz-8cXEz7dOC7R8Rn0Z1ursKJbEJXbIM9-J_DmmhjhMfNNtV-x7SIG0PTSiax05Wb5NQQs5lXV8J7VXQLkLFMROPILH01fw&_hsmi=45155107"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/?_hsenc=p2ANqtz-8v6U0mczdHFIUhMyXIDy3wUfa-ZUxjJnQpdswsm8xGtqURMrq6SsUZDJ2Pd6JY9RHOrME0FHf2BZQX_GbQisqcaifxHg&_hsmi=45155107"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/?_hsenc=p2ANqtz-9L_dXES2vJOjXvDV1KF1GweVEyHvneXaMmu_-a73CHsTcA8sBZ4nfsMSJZgE4BRwvWHdW3kCGFTordfdwC-_7cRgJbsQ&_hsmi=45145424"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/?_hsenc=p2ANqtz-9MN7HnoJ9kpuvsMGtK1ocWm95ICOHZYyOj8Y3vGUdV_ZqlQEgCQD9acCrN2_Ynz3dKDWr6kFJ0r9fYlxjyZCqr95UmLe0x5RBJKnbRobUgIsOz_4Y&_hsmi=42202727"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/apage"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/api/v1/page/html?roomHash=611fc30b6efe07edea8c301d0590d6eef9bd2c0f6feffa7f932bceb75c2d8e98&variation=A&responsiveMode=null"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "3"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/BYTE"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "5"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/coffeawrds"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/coffee"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/coffeeaward"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/CoffeeAwards"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "13"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/coffeeawards.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "2"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/coffeeswards"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/cro"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "4"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/en_us/article/google-wins-legal-battle-against-pro-trump-spammer-over-the-letter-g"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz-_1UCYA4kBE9MhrKrjFFnG8wJi39lmmN--gjM_kcklm1Wehl4RGXV8ndu6_z3npbKyvClqbxJURi7vETChCZ8Z7SPrnvg&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz-_7G__6Fu-hdAW_QDTCGsWHLFw-s0J0G0BaIsIu3wOkys-vre6bnNYsOAXda6F7PZke4Wne7ZB0cAJmMj7C1FeAIavg7-7ZnIMUPMoLgQLVyU45R8A&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz-_KHuFCrySSUj6owG5YovjZ72Lm9Q3loiH70CIUdUaLNKavgM3dcBXLeom4Wn047Lck984ngSuBqsZTiT2M5xBoHNrWKBX9sO-8O9aztiWt-jYC_Cw&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz-_kpjrIf3w91oSb6OZ1ffFcixc8rD38wVBF9OUaZO6xLw97wlKt-G0j14I3smruA5LgrCrSg1eJtUSoy3fjXZDzADkpTehFhS2kQ8v4-aOsq-88x5s&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz--EaTY5uMaCCENlHdZrqjWU87gsqIjB931oqY63YO16lzxdVOsHWdh9vwDC4oKLDbjgef1oqp7P7oiiU9mztVv9ZIQ06DeFoE83DnzAeng8ryrEvV0&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz--Fmzrt-is6YUkQDiyPm58tfNZI4Owhaobos17zqlKhCvvgmolMpZ4T9i8uN0diAotHwLyVzrLXpvdQNOyfZO7HalvQdA&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz--r-v1KNdidC5MRXxUbpNvKNUPZHrmc1BBM2L07bdEh9x0qmMaXCmyKhLW4JaqkJXug5MBWb-Vq4U4pRX6g8RAjEaJuIt-7fIihR3cytFlVY2N0acc&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "2"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz--yWxlJiqKw6qLxHn9HnAliavqXd5zkUGepQhAqizxaAzN34LOn8rEQ0Dm5RtSJzVZ30QYk4orMN3lyMgbM6JJfCewqvQYIiODjjfu47iKD67c2iic&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz-86i5FI8qBJdD_t64nguhhjhOov-hf1IPpyV26yrEtWbMFya66lMUD4AWTt61AeXGWaM234bmzZanig122PbTm_mr_unQ&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz-8n7M1UT4lKodEVHxtg_xPPAdosXCNKndXQRJ7vOEQbqhudVf-EMsbbw8tvEPHAwppxkH_nKKGtpVuyTgWln7tsfqyIcg&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz-8r8DJGe2dOKVOvqLA0P41_zTaNrnqIAroB1PvSAZkNWC0JxdDd-hm02aOhBwaGjITXCtBfY_ni_t2Yei_hyrOBtAuLpg&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz-9-ml0xW_uInx74E0sCS8Dr_QFbO2ioMoL-g5ysT4V5Q2V0iZdQvFCwNkGH9JdmAgVbABac-4RZMJdEwVWV9pZvxJjnWg&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz-94T5q6sCVIPbizZXpy8nGenRB9lqiLfHeBfNuwGsVW6sUU9VPQWiV32BxAMODssrtK2xsx9R-nRuBXB9HlAolFUKMYFA&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz-9NREL2hMY7qh4lQdA6lronzFISEUO9Q2OAvaL8P4wuFsYoTNpmRdyHVFysIJ2LQS5lr8EyFa9G3eL3zm9HtWZo27Vn-g&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/f?_hsenc=p2ANqtz-9op2ESwofMQMdqtCf_fL_UleMMStplEPtbDlamlXdXiIukiY7nYICCEo3xOW_ibAL1X76gYPFXAkNPBD-Z7FEQ6ULjW2PBHlXeoCLt10B2O5TnDK0&_hsmi=42202779"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/free-web-scan.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "5"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/media/OurFabMembers/"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/media/rushes/"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/media/rushes/thumbnails/"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/ouramazingteam"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/ourfabmembers"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/portfolio-single-gallery.html"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "2"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/portfolio-single.html"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/printer"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/search?q=cache:9Se28Bsen5YJ:tmrw.co/+&cd=1&hl=en&ct=clnk&gl=uk"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/sharebutton.to"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "10"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/staging/"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "5"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/staging/2. live site/TMRW_Byte_Cafe.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/strike"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/subscribe.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/subscriube"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/tmrw_byte_cafe.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRW_Byte_Cafe.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "270"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRW_Byte_Cafe.php Croydon"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/tmrw_faqs.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRW_FAQs.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "129"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRW_Get_in_touch"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRW_Get_in_touch.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "4"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRW_Images/TMRW_Gallery_Images/TMRW_Offices/private_office_in-coworking_space_TMRW_croydon_004.jpg"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "2"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRW_Images/TMRW_Gallery_Images/TMRW_Offices/private-offices_in_coworking_space_tmrw_croydon_007.jpg"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRW_subscribe.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "2"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/tmrw_the_team.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRW_the_team.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "140"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRW_trainstrike_form.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "3"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/TMRWpeople1.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "2"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/trainstrike"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "2"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/trainstrike_form.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/trainstrikes.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "231"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/trainstrikes.php?inf_contact_key=37d743fb0e8703a972f25e1bf88ba24e9c1670a04e6fad4bbf1dfc744b2373a7"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/trainstrikes.php?inf_contact_key=dd4202a772c196c27ca487b9d299fb4bc052e92cacf83cdfee0b5da024cd5b55"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/voteforbyte.php"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "79"
+        ]
+       }
+      ]
+     },
+     {
+      "dimensions": [
+       "/WeWork/Guardian1.jpg"
+      ],
+      "metrics": [
+       {
+        "values": [
+         "1"
+        ]
+       }
+      ]
+     }
+    ],
+    "totals": [
+     {
+      "values": [
+       "6893"
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}
