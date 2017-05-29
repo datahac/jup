@@ -1,0 +1,26 @@
+Report For View (Profile): ,All Web Site Data
+,
+These results do not contain sampled data.,
+,
+These query parameters were used:,
+max-results,1000
+dimensions,ga:goalCompletionLocation
+start-date,01/01/2017
+start-index,1
+ids,ga:123303369
+metrics,ga:goal1Completions
+end-date,04/30/2017
+,
+ga:goalCompletionLocation,ga:goal1Completions
+(entrance),6
+'/,85
+'/TMRW_Byte_Cafe.php,22
+'/TMRW_FAQs.php,24
+'/TMRW_Get_in_touch.php,3
+'/TMRW_the_team.php,5
+'/portfolio-single-gallery.html,1
+,
+Rows Returned,1000
+Rows Matched,7
+Totals For All Rows Matched,
+,146
